@@ -1,0 +1,501 @@
+order_id,customer_id,product_name,category,region,quantity,unit_price,revenue,payment_method,order_date
+ORD10000,CUST1031,Laptop,Electronics,South,1,613,613,UPI,11/23/2024
+ORD10001,CUST1054,Camera,Electronics,North,1,1259,1259,Credit Card,2/22/2024
+ORD10002,CUST1077,Mobile,Electronics,North,2,1084,2168,UPI,2/17/2024
+ORD10003,CUST1057,Camera,Electronics,East,4,501,2004,Credit Card,11/28/2024
+ORD10004,CUST1019,Headphones,Accessories,South,3,619,1857,Debit Card,3/22/2024
+ORD10005,CUST1045,Laptop,Electronics,East,4,248,992,Debit Card,2/22/2024
+ORD10006,CUST1118,Headphones,Accessories,West,5,305,1525,Credit Card,1/23/2024
+ORD10007,CUST1073,Tablet,Electronics,South,5,790,3950,Credit Card,10/9/2024
+ORD10008,CUST1109,Mobile,Electronics,South,3,213,639,Credit Card,1/24/2024
+ORD10009,CUST1106,Tablet,Electronics,East,4,1351,5404,UPI,7/13/2024
+ORD10010,CUST1034,Tablet,Electronics,North,2,1422,2844,UPI,7/8/2024
+ORD10011,CUST1048,Mobile,Electronics,East,2,996,1992,UPI,9/30/2024
+ORD10012,CUST1105,Tablet,Electronics,North,1,519,519,Debit Card,12/16/2024
+ORD10013,CUST1116,Tablet,Electronics,East,1,482,482,UPI,7/24/2024
+ORD10014,CUST1058,Headphones,Accessories,South,4,1366,5464,Debit Card,12/1/2024
+ORD10015,CUST1033,Mobile,Electronics,West,5,1153,5765,Net Banking,3/12/2024
+ORD10016,CUST1063,Mobile,Electronics,North,2,1093,2186,Credit Card,7/4/2024
+ORD10017,CUST1054,Mobile,Electronics,North,2,1443,2886,Net Banking,2/26/2024
+ORD10018,CUST1032,Camera,Electronics,North,4,1133,4532,Credit Card,7/14/2024
+ORD10019,CUST1043,Camera,Electronics,North,3,1362,4086,Debit Card,12/15/2024
+ORD10020,CUST1092,Mobile,Electronics,East,4,56,224,UPI,8/10/2024
+ORD10021,CUST1064,Laptop,Electronics,South,3,1358,4074,UPI,9/16/2024
+ORD10022,CUST1117,Mobile,Electronics,North,5,1136,5680,Debit Card,7/10/2024
+ORD10023,CUST1112,Laptop,Electronics,East,1,793,793,UPI,9/7/2024
+ORD10024,CUST1010,Mobile,Electronics,West,5,211,1055,Credit Card,1/30/2024
+ORD10025,CUST1060,Mobile,Electronics,South,2,1401,2802,Debit Card,9/29/2024
+ORD10026,CUST1118,Camera,Electronics,South,4,483,1932,Debit Card,9/27/2024
+ORD10027,CUST1057,Tablet,Electronics,North,4,1109,4436,UPI,7/23/2024
+ORD10028,CUST1075,Laptop,Electronics,South,3,93,279,UPI,4/25/2024
+ORD10029,CUST1008,Laptop,Electronics,North,1,518,518,Debit Card,1/4/2024
+ORD10030,CUST1085,Camera,Electronics,West,2,620,1240,UPI,2/6/2024
+ORD10031,CUST1060,Mobile,Electronics,South,5,1230,6150,Net Banking,10/3/2024
+ORD10032,CUST1084,Mobile,Electronics,West,1,248,248,Debit Card,7/27/2024
+ORD10033,CUST1086,Headphones,Accessories,North,4,160,640,Credit Card,8/4/2024
+ORD10034,CUST1024,Tablet,Electronics,South,1,559,559,Net Banking,7/25/2024
+ORD10035,CUST1059,Headphones,Accessories,South,2,620,1240,Credit Card,3/12/2024
+ORD10036,CUST1083,Camera,Electronics,North,1,153,153,Credit Card,8/14/2024
+ORD10037,CUST1061,Mobile,Electronics,South,4,1044,4176,Net Banking,5/1/2024
+ORD10038,CUST1049,Mobile,Electronics,East,4,54,216,Net Banking,1/31/2024
+ORD10039,CUST1091,Headphones,Accessories,West,5,1405,7025,UPI,5/26/2024
+ORD10040,CUST1074,Tablet,Electronics,North,2,169,338,Debit Card,4/7/2024
+ORD10041,CUST1064,Laptop,Electronics,South,5,1026,5130,Credit Card,1/30/2024
+ORD10042,CUST1076,Laptop,Electronics,North,2,190,380,UPI,9/17/2024
+ORD10043,CUST1074,Laptop,Electronics,North,5,554,2770,Credit Card,7/25/2024
+ORD10044,CUST1040,Camera,Electronics,East,5,1120,5600,UPI,8/2/2024
+ORD10045,CUST1050,Tablet,Electronics,South,2,593,1186,Debit Card,12/8/2024
+ORD10046,CUST1058,Tablet,Electronics,North,1,69,69,Credit Card,8/22/2024
+ORD10047,CUST1016,Mobile,Electronics,East,5,593,2965,Credit Card,10/2/2024
+ORD10048,CUST1056,Tablet,Electronics,East,3,373,1119,Credit Card,5/5/2024
+ORD10049,CUST1013,Camera,Electronics,South,3,1408,4224,Debit Card,12/7/2024
+ORD10050,CUST1034,Laptop,Electronics,East,5,368,1840,UPI,2/29/2024
+ORD10051,CUST1062,Mobile,Electronics,East,3,1085,3255,Credit Card,6/24/2024
+ORD10052,CUST1000,Headphones,Accessories,East,3,140,420,UPI,2/17/2024
+ORD10053,CUST1070,Tablet,Electronics,West,2,954,1908,Credit Card,11/22/2024
+ORD10054,CUST1004,Laptop,Electronics,East,2,1167,2334,UPI,2/27/2024
+ORD10055,CUST1046,Mobile,Electronics,North,1,681,681,Debit Card,8/8/2024
+ORD10056,CUST1099,Mobile,Electronics,West,1,774,774,UPI,4/17/2024
+ORD10057,CUST1003,Mobile,Electronics,South,2,894,1788,Debit Card,5/1/2024
+ORD10058,CUST1100,Mobile,Electronics,North,3,376,1128,Net Banking,7/29/2024
+ORD10059,CUST1104,Headphones,Accessories,West,2,458,916,Debit Card,1/20/2024
+ORD10060,CUST1084,Mobile,Electronics,South,2,98,196,Net Banking,6/5/2024
+ORD10061,CUST1044,Tablet,Electronics,West,1,621,621,Debit Card,6/17/2024
+ORD10062,CUST1074,Laptop,Electronics,East,3,415,1245,Credit Card,1/15/2024
+ORD10063,CUST1093,Camera,Electronics,East,4,757,3028,Net Banking,2/25/2024
+ORD10064,CUST1115,Camera,Electronics,South,1,838,838,Debit Card,11/6/2024
+ORD10065,CUST1118,Headphones,Accessories,South,1,1114,1114,Debit Card,1/23/2024
+ORD10066,CUST1040,Laptop,Electronics,North,3,1326,3978,Debit Card,8/8/2024
+ORD10067,CUST1051,Tablet,Electronics,East,4,718,2872,UPI,9/16/2024
+ORD10068,CUST1095,Headphones,Accessories,South,4,1437,5748,Debit Card,4/8/2024
+ORD10069,CUST1036,Camera,Electronics,South,1,672,672,Net Banking,7/26/2024
+ORD10070,CUST1056,Camera,Electronics,West,3,1002,3006,UPI,10/23/2024
+ORD10071,CUST1010,Headphones,Accessories,East,2,1399,2798,Debit Card,9/18/2024
+ORD10072,CUST1103,Mobile,Electronics,South,3,510,1530,UPI,2/17/2024
+ORD10073,CUST1078,Laptop,Electronics,North,2,1023,2046,Net Banking,1/13/2024
+ORD10074,CUST1049,Camera,Electronics,West,2,1476,2952,Net Banking,7/31/2024
+ORD10075,CUST1099,Mobile,Electronics,West,1,268,268,UPI,5/4/2024
+ORD10076,CUST1071,Camera,Electronics,South,4,152,608,Credit Card,3/31/2024
+ORD10077,CUST1067,Mobile,Electronics,East,4,1417,5668,Net Banking,8/21/2024
+ORD10078,CUST1057,Camera,Electronics,South,4,1172,4688,Net Banking,11/9/2024
+ORD10079,CUST1035,Tablet,Electronics,West,2,1355,2710,UPI,8/18/2024
+ORD10080,CUST1030,Headphones,Accessories,East,1,635,635,Debit Card,5/20/2024
+ORD10081,CUST1019,Camera,Electronics,South,1,333,333,Net Banking,6/12/2024
+ORD10082,CUST1053,Mobile,Electronics,West,2,181,362,Debit Card,12/21/2024
+ORD10083,CUST1026,Headphones,Accessories,West,4,177,708,Net Banking,10/4/2024
+ORD10084,CUST1061,Laptop,Electronics,North,5,829,4145,Debit Card,10/26/2024
+ORD10085,CUST1095,Headphones,Accessories,South,4,1152,4608,Net Banking,6/1/2024
+ORD10086,CUST1003,Tablet,Electronics,West,4,1044,4176,Debit Card,4/22/2024
+ORD10087,CUST1117,Headphones,Accessories,South,2,1007,2014,Credit Card,12/8/2024
+ORD10088,CUST1003,Camera,Electronics,North,5,1407,7035,Net Banking,7/20/2024
+ORD10089,CUST1033,Headphones,Accessories,West,2,152,304,Debit Card,3/10/2024
+ORD10090,CUST1097,Headphones,Accessories,West,3,741,2223,Debit Card,4/18/2024
+ORD10091,CUST1002,Tablet,Electronics,North,1,1013,1013,Debit Card,8/3/2024
+ORD10092,CUST1031,Laptop,Electronics,South,1,113,113,Credit Card,4/24/2024
+ORD10093,CUST1060,Mobile,Electronics,North,2,308,616,UPI,11/14/2024
+ORD10094,CUST1077,Tablet,Electronics,North,3,393,1179,UPI,8/26/2024
+ORD10095,CUST1118,Laptop,Electronics,East,5,102,510,Net Banking,6/8/2024
+ORD10096,CUST1088,Mobile,Electronics,South,1,1262,1262,Credit Card,7/22/2024
+ORD10097,CUST1101,Tablet,Electronics,North,5,297,1485,Debit Card,12/22/2024
+ORD10098,CUST1064,Headphones,Accessories,East,3,191,573,Credit Card,9/29/2024
+ORD10099,CUST1046,Headphones,Accessories,West,1,937,937,UPI,8/3/2024
+ORD10100,CUST1034,Mobile,Electronics,West,5,1382,6910,Net Banking,8/10/2024
+ORD10101,CUST1109,Camera,Electronics,South,3,710,2130,Credit Card,8/11/2024
+ORD10102,CUST1072,Headphones,Accessories,West,2,1001,2002,Debit Card,5/22/2024
+ORD10103,CUST1062,Headphones,Accessories,South,3,422,1266,Debit Card,1/15/2024
+ORD10104,CUST1089,Tablet,Electronics,East,3,1270,3810,Credit Card,5/12/2024
+ORD10105,CUST1092,Mobile,Electronics,West,1,544,544,Net Banking,9/21/2024
+ORD10106,CUST1091,Mobile,Electronics,West,4,1372,5488,Net Banking,10/11/2024
+ORD10107,CUST1051,Laptop,Electronics,South,3,503,1509,Debit Card,1/9/2024
+ORD10108,CUST1070,Camera,Electronics,East,3,1019,3057,Net Banking,12/5/2024
+ORD10109,CUST1058,Tablet,Electronics,East,3,1489,4467,Debit Card,10/8/2024
+ORD10110,CUST1040,Mobile,Electronics,North,1,444,444,UPI,5/8/2024
+ORD10111,CUST1092,Mobile,Electronics,East,4,616,2464,Credit Card,4/8/2024
+ORD10112,CUST1022,Tablet,Electronics,East,2,789,1578,Credit Card,4/9/2024
+ORD10113,CUST1005,Camera,Electronics,North,2,611,1222,Debit Card,12/28/2024
+ORD10114,CUST1111,Mobile,Electronics,North,4,260,1040,Debit Card,12/23/2024
+ORD10115,CUST1023,Headphones,Accessories,North,4,747,2988,Debit Card,8/28/2024
+ORD10116,CUST1062,Laptop,Electronics,North,1,870,870,Credit Card,9/1/2024
+ORD10117,CUST1010,Mobile,Electronics,South,5,672,3360,Credit Card,3/18/2024
+ORD10118,CUST1101,Headphones,Accessories,South,5,1270,6350,Net Banking,10/12/2024
+ORD10119,CUST1054,Headphones,Accessories,East,3,1255,3765,Credit Card,8/18/2024
+ORD10120,CUST1027,Laptop,Electronics,East,2,1331,2662,Credit Card,11/8/2024
+ORD10121,CUST1009,Mobile,Electronics,South,2,1180,2360,Credit Card,3/21/2024
+ORD10122,CUST1037,Headphones,Accessories,North,5,1012,5060,UPI,7/28/2024
+ORD10123,CUST1087,Tablet,Electronics,South,4,195,780,Debit Card,5/27/2024
+ORD10124,CUST1014,Camera,Electronics,South,2,920,1840,UPI,11/16/2024
+ORD10125,CUST1021,Mobile,Electronics,East,1,172,172,Debit Card,5/16/2024
+ORD10126,CUST1038,Laptop,Electronics,West,4,1460,5840,Debit Card,8/12/2024
+ORD10127,CUST1010,Camera,Electronics,North,4,946,3784,Net Banking,9/13/2024
+ORD10128,CUST1011,Camera,Electronics,South,3,102,306,Credit Card,6/14/2024
+ORD10129,CUST1097,Tablet,Electronics,South,5,132,660,Net Banking,12/10/2024
+ORD10130,CUST1074,Headphones,Accessories,West,3,421,1263,Net Banking,9/22/2024
+ORD10131,CUST1042,Headphones,Accessories,East,3,886,2658,Credit Card,2/16/2024
+ORD10132,CUST1063,Tablet,Electronics,East,4,1470,5880,Net Banking,3/23/2024
+ORD10133,CUST1040,Laptop,Electronics,East,4,230,920,Debit Card,10/8/2024
+ORD10134,CUST1084,Headphones,Accessories,West,5,52,260,Net Banking,2/29/2024
+ORD10135,CUST1079,Mobile,Electronics,West,5,790,3950,Net Banking,1/28/2024
+ORD10136,CUST1016,Mobile,Electronics,East,3,1174,3522,Net Banking,1/27/2024
+ORD10137,CUST1080,Headphones,Accessories,South,1,109,109,UPI,12/23/2024
+ORD10138,CUST1052,Camera,Electronics,North,1,1181,1181,UPI,6/8/2024
+ORD10139,CUST1106,Headphones,Accessories,South,1,1376,1376,Net Banking,2/28/2024
+ORD10140,CUST1106,Camera,Electronics,West,3,900,2700,Net Banking,5/29/2024
+ORD10141,CUST1049,Headphones,Accessories,South,5,346,1730,UPI,5/4/2024
+ORD10142,CUST1119,Tablet,Electronics,East,4,746,2984,Credit Card,2/5/2024
+ORD10143,CUST1084,Tablet,Electronics,West,5,1237,6185,UPI,5/24/2024
+ORD10144,CUST1042,Camera,Electronics,West,4,756,3024,Net Banking,8/16/2024
+ORD10145,CUST1049,Mobile,Electronics,South,2,1221,2442,Net Banking,6/13/2024
+ORD10146,CUST1116,Tablet,Electronics,West,4,1494,5976,Net Banking,1/23/2024
+ORD10147,CUST1016,Mobile,Electronics,East,4,125,500,Credit Card,12/5/2024
+ORD10148,CUST1001,Laptop,Electronics,South,5,985,4925,Net Banking,8/13/2024
+ORD10149,CUST1100,Mobile,Electronics,East,1,1011,1011,Debit Card,12/1/2024
+ORD10150,CUST1109,Headphones,Accessories,West,1,722,722,Debit Card,11/15/2024
+ORD10151,CUST1079,Headphones,Accessories,North,5,123,615,UPI,11/16/2024
+ORD10152,CUST1055,Tablet,Electronics,North,2,235,470,Credit Card,11/19/2024
+ORD10153,CUST1005,Mobile,Electronics,East,3,109,327,Credit Card,8/15/2024
+ORD10154,CUST1018,Tablet,Electronics,South,3,932,2796,Net Banking,5/30/2024
+ORD10155,CUST1010,Mobile,Electronics,West,2,408,816,UPI,10/16/2024
+ORD10156,CUST1059,Camera,Electronics,East,2,525,1050,Net Banking,9/11/2024
+ORD10157,CUST1086,Laptop,Electronics,South,4,639,2556,Credit Card,5/10/2024
+ORD10158,CUST1081,Tablet,Electronics,West,5,662,3310,Debit Card,8/14/2024
+ORD10159,CUST1109,Tablet,Electronics,West,2,837,1674,Credit Card,8/21/2024
+ORD10160,CUST1073,Headphones,Accessories,East,5,785,3925,Debit Card,5/1/2024
+ORD10161,CUST1072,Headphones,Accessories,North,3,66,198,Net Banking,1/12/2024
+ORD10162,CUST1028,Mobile,Electronics,South,5,771,3855,Debit Card,5/26/2024
+ORD10163,CUST1082,Mobile,Electronics,North,1,1335,1335,Debit Card,12/13/2024
+ORD10164,CUST1093,Laptop,Electronics,South,5,797,3985,Credit Card,8/13/2024
+ORD10165,CUST1025,Tablet,Electronics,South,4,409,1636,Debit Card,5/31/2024
+ORD10166,CUST1032,Camera,Electronics,West,3,386,1158,Debit Card,9/28/2024
+ORD10167,CUST1018,Laptop,Electronics,South,4,204,816,Net Banking,6/22/2024
+ORD10168,CUST1001,Tablet,Electronics,East,1,858,858,Credit Card,10/12/2024
+ORD10169,CUST1048,Tablet,Electronics,East,3,1247,3741,Credit Card,8/20/2024
+ORD10170,CUST1079,Mobile,Electronics,East,4,101,404,UPI,12/11/2024
+ORD10171,CUST1038,Laptop,Electronics,West,4,1485,5940,Credit Card,11/27/2024
+ORD10172,CUST1063,Laptop,Electronics,North,1,673,673,Credit Card,3/12/2024
+ORD10173,CUST1058,Camera,Electronics,East,2,845,1690,Net Banking,4/30/2024
+ORD10174,CUST1012,Mobile,Electronics,West,4,1391,5564,Net Banking,10/27/2024
+ORD10175,CUST1056,Laptop,Electronics,West,3,494,1482,UPI,5/23/2024
+ORD10176,CUST1115,Laptop,Electronics,East,3,1165,3495,Credit Card,7/4/2024
+ORD10177,CUST1108,Tablet,Electronics,West,2,300,600,Credit Card,7/22/2024
+ORD10178,CUST1006,Mobile,Electronics,East,5,93,465,UPI,12/5/2024
+ORD10179,CUST1106,Camera,Electronics,South,2,190,380,UPI,3/5/2024
+ORD10180,CUST1000,Tablet,Electronics,East,2,1270,2540,UPI,4/29/2024
+ORD10181,CUST1014,Camera,Electronics,North,3,407,1221,UPI,3/7/2024
+ORD10182,CUST1041,Tablet,Electronics,North,2,1255,2510,UPI,1/8/2024
+ORD10183,CUST1067,Laptop,Electronics,North,2,912,1824,Credit Card,5/15/2024
+ORD10184,CUST1075,Headphones,Accessories,North,3,1101,3303,Net Banking,8/31/2024
+ORD10185,CUST1093,Mobile,Electronics,East,5,138,690,Net Banking,9/14/2024
+ORD10186,CUST1108,Laptop,Electronics,West,1,1030,1030,Net Banking,11/25/2024
+ORD10187,CUST1009,Laptop,Electronics,North,4,958,3832,Debit Card,12/17/2024
+ORD10188,CUST1035,Mobile,Electronics,East,1,308,308,Net Banking,11/7/2024
+ORD10189,CUST1064,Camera,Electronics,West,3,979,2937,Credit Card,11/1/2024
+ORD10190,CUST1055,Laptop,Electronics,West,5,490,2450,UPI,12/25/2024
+ORD10191,CUST1053,Tablet,Electronics,North,4,866,3464,Debit Card,7/30/2024
+ORD10192,CUST1019,Tablet,Electronics,West,3,816,2448,Credit Card,8/6/2024
+ORD10193,CUST1012,Laptop,Electronics,East,1,934,934,UPI,2/16/2024
+ORD10194,CUST1071,Laptop,Electronics,East,5,1200,6000,Credit Card,10/11/2024
+ORD10195,CUST1036,Tablet,Electronics,East,4,155,620,Debit Card,7/29/2024
+ORD10196,CUST1019,Camera,Electronics,West,5,485,2425,UPI,2/23/2024
+ORD10197,CUST1014,Tablet,Electronics,East,5,802,4010,UPI,2/25/2024
+ORD10198,CUST1086,Camera,Electronics,North,5,1306,6530,Debit Card,8/7/2024
+ORD10199,CUST1097,Mobile,Electronics,East,3,1489,4467,Debit Card,1/15/2024
+ORD10200,CUST1072,Laptop,Electronics,West,2,343,686,Credit Card,6/28/2024
+ORD10201,CUST1027,Laptop,Electronics,West,1,1136,1136,Net Banking,3/13/2024
+ORD10202,CUST1039,Tablet,Electronics,East,2,807,1614,Credit Card,8/20/2024
+ORD10203,CUST1006,Mobile,Electronics,North,2,1315,2630,Debit Card,1/27/2024
+ORD10204,CUST1056,Headphones,Accessories,West,4,1293,5172,Debit Card,8/14/2024
+ORD10205,CUST1055,Camera,Electronics,North,1,756,756,Debit Card,4/20/2024
+ORD10206,CUST1085,Camera,Electronics,East,4,1129,4516,Credit Card,12/13/2024
+ORD10207,CUST1000,Headphones,Accessories,South,5,162,810,Debit Card,4/22/2024
+ORD10208,CUST1041,Mobile,Electronics,North,3,642,1926,Credit Card,4/18/2024
+ORD10209,CUST1048,Headphones,Accessories,South,2,314,628,Debit Card,9/11/2024
+ORD10210,CUST1002,Headphones,Accessories,West,1,943,943,Credit Card,2/6/2024
+ORD10211,CUST1051,Camera,Electronics,West,4,1224,4896,Debit Card,6/9/2024
+ORD10212,CUST1021,Headphones,Accessories,West,1,715,715,Debit Card,2/28/2024
+ORD10213,CUST1055,Headphones,Accessories,West,1,548,548,Credit Card,2/15/2024
+ORD10214,CUST1042,Tablet,Electronics,South,3,503,1509,Credit Card,7/21/2024
+ORD10215,CUST1024,Laptop,Electronics,East,5,1094,5470,Debit Card,9/18/2024
+ORD10216,CUST1018,Mobile,Electronics,East,2,260,520,UPI,11/26/2024
+ORD10217,CUST1009,Camera,Electronics,South,2,1392,2784,Net Banking,3/29/2024
+ORD10218,CUST1087,Camera,Electronics,East,5,969,4845,Debit Card,8/25/2024
+ORD10219,CUST1056,Headphones,Accessories,East,1,1010,1010,Debit Card,3/18/2024
+ORD10220,CUST1009,Laptop,Electronics,East,3,1089,3267,Net Banking,10/29/2024
+ORD10221,CUST1106,Laptop,Electronics,East,1,805,805,Credit Card,8/19/2024
+ORD10222,CUST1064,Laptop,Electronics,West,5,1266,6330,Net Banking,11/26/2024
+ORD10223,CUST1116,Camera,Electronics,South,1,971,971,Debit Card,10/24/2024
+ORD10224,CUST1007,Headphones,Accessories,West,5,358,1790,Credit Card,11/5/2024
+ORD10225,CUST1022,Laptop,Electronics,North,5,1373,6865,UPI,6/24/2024
+ORD10226,CUST1066,Headphones,Accessories,South,4,1123,4492,Debit Card,12/28/2024
+ORD10227,CUST1099,Tablet,Electronics,East,4,887,3548,Credit Card,7/9/2024
+ORD10228,CUST1012,Tablet,Electronics,West,1,725,725,Debit Card,11/19/2024
+ORD10229,CUST1010,Camera,Electronics,South,2,732,1464,Debit Card,5/9/2024
+ORD10230,CUST1090,Headphones,Accessories,North,2,1268,2536,Debit Card,6/7/2024
+ORD10231,CUST1085,Headphones,Accessories,North,3,311,933,Net Banking,10/13/2024
+ORD10232,CUST1039,Tablet,Electronics,South,1,792,792,UPI,9/17/2024
+ORD10233,CUST1017,Headphones,Accessories,South,2,513,1026,Credit Card,6/23/2024
+ORD10234,CUST1106,Laptop,Electronics,North,5,1155,5775,Debit Card,5/31/2024
+ORD10235,CUST1019,Mobile,Electronics,South,5,821,4105,UPI,11/12/2024
+ORD10236,CUST1005,Camera,Electronics,West,2,946,1892,Debit Card,12/20/2024
+ORD10237,CUST1036,Mobile,Electronics,West,4,1300,5200,UPI,12/12/2024
+ORD10238,CUST1115,Mobile,Electronics,South,3,1010,3030,Debit Card,9/30/2024
+ORD10239,CUST1098,Camera,Electronics,East,4,995,3980,Net Banking,12/13/2024
+ORD10240,CUST1104,Camera,Electronics,South,4,381,1524,UPI,9/14/2024
+ORD10241,CUST1070,Laptop,Electronics,North,4,810,3240,Credit Card,5/8/2024
+ORD10242,CUST1057,Laptop,Electronics,South,2,608,1216,Net Banking,5/25/2024
+ORD10243,CUST1119,Mobile,Electronics,North,4,765,3060,Net Banking,2/16/2024
+ORD10244,CUST1030,Headphones,Accessories,West,5,815,4075,Credit Card,1/28/2024
+ORD10245,CUST1119,Mobile,Electronics,North,1,702,702,Debit Card,7/10/2024
+ORD10246,CUST1117,Mobile,Electronics,West,1,637,637,UPI,3/15/2024
+ORD10247,CUST1000,Headphones,Accessories,North,4,1310,5240,Credit Card,12/27/2024
+ORD10248,CUST1093,Mobile,Electronics,West,2,1173,2346,Credit Card,5/11/2024
+ORD10249,CUST1006,Mobile,Electronics,South,3,299,897,Net Banking,5/27/2024
+ORD10250,CUST1014,Camera,Electronics,West,4,178,712,Credit Card,11/23/2024
+ORD10251,CUST1091,Camera,Electronics,South,5,545,2725,Debit Card,11/19/2024
+ORD10252,CUST1030,Laptop,Electronics,West,5,772,3860,UPI,8/7/2024
+ORD10253,CUST1008,Laptop,Electronics,North,5,788,3940,Net Banking,12/6/2024
+ORD10254,CUST1032,Laptop,Electronics,North,4,814,3256,Debit Card,8/28/2024
+ORD10255,CUST1080,Tablet,Electronics,North,2,1395,2790,Debit Card,2/4/2024
+ORD10256,CUST1043,Laptop,Electronics,South,3,1168,3504,Net Banking,3/9/2024
+ORD10257,CUST1008,Headphones,Accessories,West,2,326,652,Credit Card,12/22/2024
+ORD10258,CUST1113,Mobile,Electronics,North,1,458,458,Debit Card,5/30/2024
+ORD10259,CUST1060,Camera,Electronics,East,4,1162,4648,Credit Card,6/7/2024
+ORD10260,CUST1110,Mobile,Electronics,North,3,781,2343,Debit Card,11/27/2024
+ORD10261,CUST1113,Laptop,Electronics,West,3,944,2832,Net Banking,5/19/2024
+ORD10262,CUST1088,Tablet,Electronics,West,2,1066,2132,Debit Card,7/16/2024
+ORD10263,CUST1010,Tablet,Electronics,West,1,919,919,UPI,9/22/2024
+ORD10264,CUST1010,Tablet,Electronics,East,3,260,780,Debit Card,10/6/2024
+ORD10265,CUST1021,Headphones,Accessories,West,5,922,4610,Debit Card,6/5/2024
+ORD10266,CUST1055,Laptop,Electronics,East,3,1309,3927,Credit Card,8/16/2024
+ORD10267,CUST1102,Headphones,Accessories,South,3,1100,3300,Credit Card,2/8/2024
+ORD10268,CUST1016,Camera,Electronics,North,4,121,484,UPI,3/14/2024
+ORD10269,CUST1072,Tablet,Electronics,North,3,834,2502,UPI,11/26/2024
+ORD10270,CUST1056,Headphones,Accessories,North,3,811,2433,UPI,12/13/2024
+ORD10271,CUST1083,Tablet,Electronics,East,4,693,2772,UPI,9/28/2024
+ORD10272,CUST1066,Laptop,Electronics,West,2,1072,2144,Credit Card,2/28/2024
+ORD10273,CUST1078,Tablet,Electronics,East,4,489,1956,Net Banking,5/14/2024
+ORD10274,CUST1057,Laptop,Electronics,South,2,201,402,Net Banking,4/12/2024
+ORD10275,CUST1070,Tablet,Electronics,East,3,182,546,Debit Card,2/14/2024
+ORD10276,CUST1028,Mobile,Electronics,North,3,1091,3273,UPI,3/21/2024
+ORD10277,CUST1046,Mobile,Electronics,East,4,103,412,Net Banking,3/12/2024
+ORD10278,CUST1008,Mobile,Electronics,East,5,226,1130,Net Banking,10/9/2024
+ORD10279,CUST1105,Camera,Electronics,North,4,888,3552,UPI,9/2/2024
+ORD10280,CUST1087,Laptop,Electronics,East,4,1004,4016,UPI,6/11/2024
+ORD10281,CUST1055,Camera,Electronics,North,2,314,628,Credit Card,10/9/2024
+ORD10282,CUST1020,Mobile,Electronics,East,3,387,1161,UPI,9/22/2024
+ORD10283,CUST1032,Camera,Electronics,South,3,211,633,Debit Card,6/26/2024
+ORD10284,CUST1011,Tablet,Electronics,South,5,1142,5710,UPI,3/5/2024
+ORD10285,CUST1107,Camera,Electronics,North,5,741,3705,Credit Card,3/28/2024
+ORD10286,CUST1083,Laptop,Electronics,South,5,592,2960,Net Banking,2/11/2024
+ORD10287,CUST1069,Laptop,Electronics,East,4,1334,5336,Debit Card,11/12/2024
+ORD10288,CUST1058,Mobile,Electronics,North,4,659,2636,Credit Card,9/4/2024
+ORD10289,CUST1059,Headphones,Accessories,South,4,1041,4164,Debit Card,3/21/2024
+ORD10290,CUST1093,Mobile,Electronics,East,3,703,2109,Net Banking,11/6/2024
+ORD10291,CUST1013,Tablet,Electronics,East,5,1200,6000,UPI,3/7/2024
+ORD10292,CUST1031,Laptop,Electronics,South,3,970,2910,Credit Card,8/26/2024
+ORD10293,CUST1053,Tablet,Electronics,South,4,1310,5240,UPI,1/26/2024
+ORD10294,CUST1097,Camera,Electronics,South,3,438,1314,Net Banking,6/16/2024
+ORD10295,CUST1063,Headphones,Accessories,North,4,681,2724,Credit Card,9/20/2024
+ORD10296,CUST1027,Camera,Electronics,East,4,543,2172,Credit Card,7/20/2024
+ORD10297,CUST1112,Tablet,Electronics,West,4,1273,5092,Debit Card,1/26/2024
+ORD10298,CUST1017,Laptop,Electronics,East,1,932,932,Debit Card,10/1/2024
+ORD10299,CUST1006,Tablet,Electronics,South,1,870,870,Debit Card,7/25/2024
+ORD10300,CUST1064,Tablet,Electronics,West,1,841,841,Debit Card,10/10/2024
+ORD10301,CUST1012,Camera,Electronics,West,1,313,313,Debit Card,11/15/2024
+ORD10302,CUST1025,Camera,Electronics,West,3,345,1035,Credit Card,6/22/2024
+ORD10303,CUST1102,Laptop,Electronics,West,2,732,1464,Net Banking,1/24/2024
+ORD10304,CUST1041,Camera,Electronics,East,5,336,1680,UPI,3/17/2024
+ORD10305,CUST1043,Camera,Electronics,West,3,1265,3795,Debit Card,7/20/2024
+ORD10306,CUST1086,Laptop,Electronics,North,3,728,2184,Net Banking,8/31/2024
+ORD10307,CUST1060,Tablet,Electronics,East,1,1272,1272,UPI,10/25/2024
+ORD10308,CUST1067,Camera,Electronics,West,4,399,1596,UPI,1/27/2024
+ORD10309,CUST1089,Mobile,Electronics,North,1,1222,1222,UPI,12/14/2024
+ORD10310,CUST1019,Headphones,Accessories,West,3,907,2721,UPI,1/10/2024
+ORD10311,CUST1111,Camera,Electronics,North,5,1015,5075,UPI,7/29/2024
+ORD10312,CUST1084,Mobile,Electronics,West,5,715,3575,Net Banking,9/22/2024
+ORD10313,CUST1043,Mobile,Electronics,East,4,1141,4564,Debit Card,6/9/2024
+ORD10314,CUST1035,Headphones,Accessories,East,2,554,1108,UPI,11/8/2024
+ORD10315,CUST1090,Tablet,Electronics,West,2,1463,2926,Debit Card,6/1/2024
+ORD10316,CUST1036,Tablet,Electronics,North,5,610,3050,Net Banking,9/2/2024
+ORD10317,CUST1005,Tablet,Electronics,East,2,644,1288,Credit Card,7/21/2024
+ORD10318,CUST1027,Headphones,Accessories,South,3,1031,3093,Debit Card,6/26/2024
+ORD10319,CUST1078,Tablet,Electronics,South,2,273,546,UPI,10/14/2024
+ORD10320,CUST1029,Camera,Electronics,North,2,1356,2712,Credit Card,1/26/2024
+ORD10321,CUST1087,Tablet,Electronics,South,4,255,1020,Credit Card,7/30/2024
+ORD10322,CUST1119,Mobile,Electronics,West,4,1387,5548,Net Banking,10/8/2024
+ORD10323,CUST1036,Mobile,Electronics,North,3,707,2121,Credit Card,11/29/2024
+ORD10324,CUST1094,Camera,Electronics,North,2,1145,2290,UPI,11/29/2024
+ORD10325,CUST1100,Mobile,Electronics,West,1,863,863,UPI,8/1/2024
+ORD10326,CUST1072,Laptop,Electronics,North,1,661,661,Debit Card,5/28/2024
+ORD10327,CUST1063,Headphones,Accessories,South,5,1123,5615,Net Banking,5/25/2024
+ORD10328,CUST1020,Mobile,Electronics,West,1,727,727,Debit Card,5/19/2024
+ORD10329,CUST1072,Laptop,Electronics,South,3,654,1962,UPI,4/5/2024
+ORD10330,CUST1041,Headphones,Accessories,North,4,1105,4420,Net Banking,11/8/2024
+ORD10331,CUST1061,Laptop,Electronics,East,2,337,674,UPI,12/8/2024
+ORD10332,CUST1057,Tablet,Electronics,East,4,532,2128,Debit Card,1/4/2024
+ORD10333,CUST1033,Camera,Electronics,East,5,73,365,UPI,6/3/2024
+ORD10334,CUST1020,Laptop,Electronics,West,4,678,2712,Debit Card,2/1/2024
+ORD10335,CUST1078,Laptop,Electronics,South,3,802,2406,UPI,12/19/2024
+ORD10336,CUST1095,Headphones,Accessories,East,2,981,1962,Net Banking,3/9/2024
+ORD10337,CUST1102,Camera,Electronics,South,4,1150,4600,UPI,12/25/2024
+ORD10338,CUST1057,Camera,Electronics,East,1,1126,1126,Credit Card,12/14/2024
+ORD10339,CUST1115,Laptop,Electronics,South,1,1171,1171,UPI,10/15/2024
+ORD10340,CUST1014,Tablet,Electronics,South,5,954,4770,Net Banking,3/25/2024
+ORD10341,CUST1058,Camera,Electronics,South,4,163,652,Net Banking,2/16/2024
+ORD10342,CUST1059,Camera,Electronics,East,1,1194,1194,Credit Card,8/21/2024
+ORD10343,CUST1074,Tablet,Electronics,North,1,496,496,Credit Card,7/21/2024
+ORD10344,CUST1007,Tablet,Electronics,North,1,1158,1158,Net Banking,8/4/2024
+ORD10345,CUST1098,Tablet,Electronics,South,4,418,1672,Net Banking,1/17/2024
+ORD10346,CUST1048,Headphones,Accessories,North,4,823,3292,UPI,7/10/2024
+ORD10347,CUST1068,Tablet,Electronics,West,1,415,415,UPI,11/30/2024
+ORD10348,CUST1059,Laptop,Electronics,West,1,661,661,Net Banking,4/24/2024
+ORD10349,CUST1019,Mobile,Electronics,East,4,758,3032,UPI,4/27/2024
+ORD10350,CUST1098,Laptop,Electronics,North,4,1309,5236,UPI,2/27/2024
+ORD10351,CUST1004,Laptop,Electronics,West,1,1266,1266,Credit Card,4/15/2024
+ORD10352,CUST1029,Laptop,Electronics,South,4,948,3792,Credit Card,5/5/2024
+ORD10353,CUST1104,Camera,Electronics,East,3,529,1587,Debit Card,3/12/2024
+ORD10354,CUST1066,Tablet,Electronics,South,2,1402,2804,Net Banking,5/1/2024
+ORD10355,CUST1075,Tablet,Electronics,South,1,1190,1190,Net Banking,6/2/2024
+ORD10356,CUST1082,Headphones,Accessories,West,1,755,755,Debit Card,10/11/2024
+ORD10357,CUST1038,Headphones,Accessories,West,4,355,1420,UPI,12/22/2024
+ORD10358,CUST1038,Headphones,Accessories,South,2,511,1022,Net Banking,10/2/2024
+ORD10359,CUST1071,Camera,Electronics,South,4,903,3612,Net Banking,1/30/2024
+ORD10360,CUST1082,Tablet,Electronics,North,2,726,1452,Net Banking,5/4/2024
+ORD10361,CUST1006,Laptop,Electronics,East,5,440,2200,Net Banking,7/8/2024
+ORD10362,CUST1111,Camera,Electronics,North,5,130,650,UPI,12/10/2024
+ORD10363,CUST1026,Camera,Electronics,East,2,1031,2062,Debit Card,10/27/2024
+ORD10364,CUST1095,Mobile,Electronics,West,2,290,580,UPI,1/8/2024
+ORD10365,CUST1117,Camera,Electronics,South,2,862,1724,Debit Card,12/22/2024
+ORD10366,CUST1083,Headphones,Accessories,East,4,1142,4568,Debit Card,5/24/2024
+ORD10367,CUST1059,Tablet,Electronics,North,5,1068,5340,Net Banking,5/13/2024
+ORD10368,CUST1052,Mobile,Electronics,North,3,690,2070,UPI,6/12/2024
+ORD10369,CUST1119,Laptop,Electronics,West,3,1183,3549,Debit Card,3/15/2024
+ORD10370,CUST1048,Mobile,Electronics,South,3,521,1563,Net Banking,3/19/2024
+ORD10371,CUST1092,Tablet,Electronics,West,3,1050,3150,Net Banking,10/8/2024
+ORD10372,CUST1092,Tablet,Electronics,West,2,336,672,UPI,3/27/2024
+ORD10373,CUST1107,Laptop,Electronics,North,5,119,595,Credit Card,10/4/2024
+ORD10374,CUST1029,Headphones,Accessories,North,2,1341,2682,UPI,1/4/2024
+ORD10375,CUST1047,Mobile,Electronics,North,5,983,4915,Net Banking,1/5/2024
+ORD10376,CUST1068,Headphones,Accessories,West,1,63,63,Credit Card,12/3/2024
+ORD10377,CUST1036,Camera,Electronics,North,3,1147,3441,Net Banking,1/9/2024
+ORD10378,CUST1019,Laptop,Electronics,South,1,1123,1123,UPI,4/1/2024
+ORD10379,CUST1034,Camera,Electronics,West,3,775,2325,Credit Card,11/13/2024
+ORD10380,CUST1031,Headphones,Accessories,South,4,1207,4828,Debit Card,7/10/2024
+ORD10381,CUST1051,Laptop,Electronics,West,1,241,241,Net Banking,12/16/2024
+ORD10382,CUST1001,Headphones,Accessories,South,1,1354,1354,Credit Card,10/9/2024
+ORD10383,CUST1109,Headphones,Accessories,North,3,1208,3624,Credit Card,9/12/2024
+ORD10384,CUST1034,Mobile,Electronics,North,5,1023,5115,Credit Card,4/27/2024
+ORD10385,CUST1084,Tablet,Electronics,North,5,1204,6020,UPI,12/16/2024
+ORD10386,CUST1018,Laptop,Electronics,West,2,1252,2504,Credit Card,6/10/2024
+ORD10387,CUST1072,Mobile,Electronics,West,5,542,2710,Debit Card,6/2/2024
+ORD10388,CUST1095,Mobile,Electronics,East,1,1075,1075,Credit Card,7/15/2024
+ORD10389,CUST1043,Headphones,Accessories,West,2,205,410,Debit Card,2/20/2024
+ORD10390,CUST1029,Tablet,Electronics,East,4,1054,4216,Net Banking,1/16/2024
+ORD10391,CUST1048,Mobile,Electronics,North,5,1403,7015,Debit Card,8/9/2024
+ORD10392,CUST1019,Laptop,Electronics,West,1,598,598,UPI,5/6/2024
+ORD10393,CUST1011,Tablet,Electronics,North,3,268,804,Debit Card,7/18/2024
+ORD10394,CUST1016,Tablet,Electronics,North,3,259,777,UPI,8/15/2024
+ORD10395,CUST1065,Headphones,Accessories,West,5,1186,5930,Credit Card,8/8/2024
+ORD10396,CUST1011,Laptop,Electronics,East,3,1185,3555,Net Banking,1/14/2024
+ORD10397,CUST1099,Tablet,Electronics,North,4,844,3376,UPI,1/7/2024
+ORD10398,CUST1048,Camera,Electronics,South,2,1453,2906,UPI,10/19/2024
+ORD10399,CUST1018,Tablet,Electronics,North,3,1059,3177,UPI,5/17/2024
+ORD10400,CUST1061,Tablet,Electronics,North,4,663,2652,Debit Card,8/10/2024
+ORD10401,CUST1078,Mobile,Electronics,South,4,1266,5064,Net Banking,5/8/2024
+ORD10402,CUST1050,Mobile,Electronics,East,3,63,189,Net Banking,2/24/2024
+ORD10403,CUST1104,Headphones,Accessories,South,3,931,2793,Debit Card,6/17/2024
+ORD10404,CUST1040,Camera,Electronics,South,2,1031,2062,Net Banking,6/13/2024
+ORD10405,CUST1100,Tablet,Electronics,South,4,1229,4916,Debit Card,6/12/2024
+ORD10406,CUST1014,Tablet,Electronics,South,4,797,3188,UPI,7/11/2024
+ORD10407,CUST1090,Camera,Electronics,South,1,995,995,Net Banking,12/15/2024
+ORD10408,CUST1063,Laptop,Electronics,South,4,1428,5712,Debit Card,5/29/2024
+ORD10409,CUST1101,Tablet,Electronics,West,2,916,1832,Credit Card,5/3/2024
+ORD10410,CUST1051,Camera,Electronics,West,4,1242,4968,Credit Card,8/17/2024
+ORD10411,CUST1117,Camera,Electronics,North,5,1356,6780,Credit Card,7/3/2024
+ORD10412,CUST1078,Tablet,Electronics,North,2,1375,2750,Net Banking,5/7/2024
+ORD10413,CUST1012,Headphones,Accessories,East,1,71,71,UPI,6/18/2024
+ORD10414,CUST1088,Camera,Electronics,South,5,1238,6190,Net Banking,9/18/2024
+ORD10415,CUST1075,Headphones,Accessories,South,4,1441,5764,Debit Card,7/10/2024
+ORD10416,CUST1053,Headphones,Accessories,North,1,655,655,Credit Card,1/13/2024
+ORD10417,CUST1058,Tablet,Electronics,South,3,752,2256,Net Banking,3/13/2024
+ORD10418,CUST1092,Headphones,Accessories,West,1,947,947,Debit Card,6/27/2024
+ORD10419,CUST1002,Tablet,Electronics,East,1,285,285,Credit Card,2/4/2024
+ORD10420,CUST1022,Mobile,Electronics,South,2,1106,2212,Debit Card,12/12/2024
+ORD10421,CUST1102,Headphones,Accessories,West,4,524,2096,UPI,10/13/2024
+ORD10422,CUST1094,Headphones,Accessories,South,4,109,436,Net Banking,4/5/2024
+ORD10423,CUST1090,Headphones,Accessories,South,4,59,236,UPI,10/30/2024
+ORD10424,CUST1102,Laptop,Electronics,South,5,258,1290,Debit Card,5/22/2024
+ORD10425,CUST1033,Mobile,Electronics,West,4,283,1132,Debit Card,6/15/2024
+ORD10426,CUST1075,Headphones,Accessories,North,5,853,4265,Debit Card,11/1/2024
+ORD10427,CUST1104,Headphones,Accessories,East,5,403,2015,Credit Card,6/29/2024
+ORD10428,CUST1030,Mobile,Electronics,East,3,291,873,Credit Card,12/10/2024
+ORD10429,CUST1049,Tablet,Electronics,West,2,1096,2192,UPI,4/3/2024
+ORD10430,CUST1062,Headphones,Accessories,South,4,430,1720,UPI,10/21/2024
+ORD10431,CUST1040,Tablet,Electronics,West,2,433,866,Credit Card,9/7/2024
+ORD10432,CUST1024,Laptop,Electronics,West,4,329,1316,Net Banking,7/2/2024
+ORD10433,CUST1062,Headphones,Accessories,South,4,959,3836,Credit Card,7/28/2024
+ORD10434,CUST1004,Laptop,Electronics,East,2,648,1296,UPI,10/16/2024
+ORD10435,CUST1072,Tablet,Electronics,West,2,986,1972,Credit Card,10/2/2024
+ORD10436,CUST1105,Laptop,Electronics,East,3,1162,3486,Credit Card,10/20/2024
+ORD10437,CUST1013,Camera,Electronics,South,2,920,1840,Debit Card,8/13/2024
+ORD10438,CUST1110,Headphones,Accessories,North,3,763,2289,Net Banking,1/17/2024
+ORD10439,CUST1088,Mobile,Electronics,East,2,1254,2508,Net Banking,3/1/2024
+ORD10440,CUST1104,Camera,Electronics,South,2,473,946,Credit Card,3/25/2024
+ORD10441,CUST1076,Tablet,Electronics,South,5,625,3125,Debit Card,10/18/2024
+ORD10442,CUST1034,Tablet,Electronics,North,3,1222,3666,UPI,12/26/2024
+ORD10443,CUST1016,Laptop,Electronics,South,3,1393,4179,UPI,7/29/2024
+ORD10444,CUST1050,Tablet,Electronics,West,2,1434,2868,UPI,3/15/2024
+ORD10445,CUST1057,Tablet,Electronics,North,4,818,3272,Credit Card,10/22/2024
+ORD10446,CUST1119,Camera,Electronics,East,3,1472,4416,Net Banking,7/25/2024
+ORD10447,CUST1111,Tablet,Electronics,North,5,55,275,Net Banking,9/6/2024
+ORD10448,CUST1050,Tablet,Electronics,South,1,1144,1144,Net Banking,11/21/2024
+ORD10449,CUST1106,Headphones,Accessories,East,3,711,2133,Debit Card,4/18/2024
+ORD10450,CUST1109,Camera,Electronics,West,2,1209,2418,Debit Card,10/7/2024
+ORD10451,CUST1080,Laptop,Electronics,West,1,253,253,Credit Card,12/15/2024
+ORD10452,CUST1000,Mobile,Electronics,West,4,984,3936,UPI,3/4/2024
+ORD10453,CUST1111,Mobile,Electronics,East,3,375,1125,Credit Card,12/18/2024
+ORD10454,CUST1047,Tablet,Electronics,South,3,218,654,Credit Card,12/1/2024
+ORD10455,CUST1083,Tablet,Electronics,North,2,929,1858,Credit Card,7/21/2024
+ORD10456,CUST1016,Mobile,Electronics,South,4,209,836,Net Banking,1/1/2024
+ORD10457,CUST1110,Laptop,Electronics,West,3,296,888,UPI,1/5/2024
+ORD10458,CUST1011,Laptop,Electronics,North,2,834,1668,Credit Card,9/1/2024
+ORD10459,CUST1048,Tablet,Electronics,South,3,330,990,UPI,6/9/2024
+ORD10460,CUST1078,Camera,Electronics,South,5,67,335,Net Banking,2/5/2024
+ORD10461,CUST1078,Mobile,Electronics,West,2,893,1786,UPI,6/28/2024
+ORD10462,CUST1075,Laptop,Electronics,West,2,302,604,Debit Card,2/14/2024
+ORD10463,CUST1035,Tablet,Electronics,North,2,557,1114,UPI,8/7/2024
+ORD10464,CUST1036,Camera,Electronics,North,5,1294,6470,Debit Card,10/10/2024
+ORD10465,CUST1024,Camera,Electronics,West,5,1093,5465,Debit Card,4/15/2024
+ORD10466,CUST1049,Laptop,Electronics,North,2,1063,2126,UPI,11/26/2024
+ORD10467,CUST1113,Camera,Electronics,North,1,1131,1131,Debit Card,9/12/2024
+ORD10468,CUST1053,Mobile,Electronics,East,4,1214,4856,UPI,6/11/2024
+ORD10469,CUST1008,Laptop,Electronics,North,1,1252,1252,Debit Card,8/29/2024
+ORD10470,CUST1064,Laptop,Electronics,East,1,865,865,Net Banking,4/20/2024
+ORD10471,CUST1068,Headphones,Accessories,South,1,1361,1361,Debit Card,8/4/2024
+ORD10472,CUST1117,Tablet,Electronics,South,1,1097,1097,UPI,2/12/2024
+ORD10473,CUST1081,Tablet,Electronics,North,4,1251,5004,Debit Card,10/1/2024
+ORD10474,CUST1031,Headphones,Accessories,North,2,168,336,Net Banking,12/23/2024
+ORD10475,CUST1007,Headphones,Accessories,East,5,1296,6480,UPI,2/29/2024
+ORD10476,CUST1001,Laptop,Electronics,South,2,1486,2972,Net Banking,3/2/2024
+ORD10477,CUST1021,Camera,Electronics,East,5,580,2900,UPI,6/26/2024
+ORD10478,CUST1103,Laptop,Electronics,West,1,736,736,Debit Card,5/17/2024
+ORD10479,CUST1080,Laptop,Electronics,North,3,1230,3690,Net Banking,9/25/2024
+ORD10480,CUST1063,Camera,Electronics,South,3,163,489,Debit Card,8/21/2024
+ORD10481,CUST1086,Tablet,Electronics,North,1,1225,1225,UPI,3/21/2024
+ORD10482,CUST1031,Laptop,Electronics,North,1,75,75,Net Banking,9/17/2024
+ORD10483,CUST1119,Headphones,Accessories,North,2,416,832,Net Banking,7/5/2024
+ORD10484,CUST1117,Tablet,Electronics,East,2,902,1804,Debit Card,4/24/2024
+ORD10485,CUST1064,Camera,Electronics,North,3,294,882,UPI,2/9/2024
+ORD10486,CUST1008,Camera,Electronics,West,1,871,871,Debit Card,4/24/2024
+ORD10487,CUST1058,Tablet,Electronics,North,1,1182,1182,Debit Card,6/8/2024
+ORD10488,CUST1094,Tablet,Electronics,South,5,672,3360,Net Banking,4/12/2024
+ORD10489,CUST1093,Camera,Electronics,South,4,450,1800,UPI,7/7/2024
+ORD10490,CUST1069,Headphones,Accessories,East,1,527,527,Credit Card,1/4/2024
+ORD10491,CUST1013,Laptop,Electronics,South,4,679,2716,UPI,6/20/2024
+ORD10492,CUST1091,Headphones,Accessories,East,1,341,341,Credit Card,8/2/2024
+ORD10493,CUST1089,Mobile,Electronics,East,5,895,4475,Net Banking,1/23/2024
+ORD10494,CUST1017,Camera,Electronics,West,1,1085,1085,Credit Card,2/13/2024
+ORD10495,CUST1084,Camera,Electronics,South,1,940,940,UPI,10/30/2024
+ORD10496,CUST1089,Tablet,Electronics,East,3,854,2562,Debit Card,5/29/2024
+ORD10497,CUST1025,Tablet,Electronics,South,2,202,404,Credit Card,8/19/2024
+ORD10498,CUST1059,Laptop,Electronics,East,2,970,1940,Net Banking,3/20/2024
+ORD10499,CUST1057,Camera,Electronics,East,3,475,1425,Net Banking,3/2/2024
